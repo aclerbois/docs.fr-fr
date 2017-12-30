@@ -19,7 +19,7 @@ ms.lasthandoff: 10/18/2017
 
 Bienvenue dans les Démarrages rapides pour C#. Ceux-ci commencent par des leçons interactives que vous pouvez exécuter dans votre navigateur.
 
-Les premières leçons expliquent les concepts de C# à l’aide de petits extraits de code. Vous apprendrez les bases de la syntaxe C# et comment utiliser des types de données tels que des chaînes, des nombres et des valeurs booléennes. Tout est interactif et vous serez prêt à écrire du code en quelques minutes. Ces premières leçons prennent pour acquis que vous n’avez aucune connaissance préalable de la programmation ou du langage C#.
+Les premières leçons expliquent les concepts de C# à l’aide de petits extraits de code. Vous apprendrez les bases de la syntaxe C# et comment utiliser des types de données tels que des chaînes, des nombres et des valeurs binaires. Tout est interactif et vous serez prêt à écrire du code en quelques minutes. Ces premières leçons prennent pour acquis que vous n’avez aucune connaissance préalable de la programmation ou du langage C#.
 
 ## <a name="hello-worldhello-worldyml"></a>[Hello world](hello-world.yml)
 
